@@ -1,1 +1,1 @@
-APIKEY = "<your OpenAI API Key>"
+APIKEY = "123123123123"
